@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkashRaj023
 - 👀 I’m interested in Dev-Ops
 - 🌱 I’m currently learning Java,Git,DSA,Web-Dev and Flutter.
-- 📫 How to reach me: akash2301raj@gmail.com
+- 📫 How to reach me: boringpasta.com
 - 😄 Pronouns: he/him
 
 <!---
