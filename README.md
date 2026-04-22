@@ -4,7 +4,7 @@
 
 ---
 
-## // the story so far
+## the story so far
 
 I write code the way a poet writes verse; with intention, restraint, and a stubborn belief that the right line changes everything.
 On the mat, I learned that discipline is quiet. In the kitchen, I learned that patience is not passive; it is presence.
@@ -14,7 +14,7 @@ My north star: **build things that serve people before they serve metrics.**
 
 ---
 
-## // craft ; discipline ; purpose
+## craft ; discipline ; purpose
 
 **Craft**
 Code by day. Poetry and debate by night. The two practices aren't different — both demand honesty about what you're really trying to say.
@@ -27,7 +27,7 @@ I don't build products. I build infrastructure for people going through real thi
 
 ---
 
-## // what I'm building
+## what I'm building
 
 ### 🌿 AfterMa — Postpartum Care App
 Because the fourth trimester is real and the world has been mostly quiet about it.
@@ -41,7 +41,7 @@ Not another fintech dashboard; a translator between complex data and real human 
 
 ---
 
-## // a few things I believe
+## a few things I believe
 
 ```
 01  Good software, like good poetry, says the essential thing and stops.
@@ -55,7 +55,7 @@ Not another fintech dashboard; a translator between complex data and real human 
 
 ---
 
-## // reach me
+## reach me
 
 Open to conversations about care tech, fintech for equity, poetry, the philosophy of martial arts, or what's on the stove.
 
